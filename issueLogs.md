@@ -15,3 +15,5 @@ config file was updated - getting
  Rebased code Checking
 
 again rebase
+
+3rd rebase from git UI
