@@ -7,4 +7,8 @@ public key error
 ssh key was generted 
 config file was updated - getting 
 
+<<<<<<< HEAD
 rebase did form local
+=======
+Rbase did nor work
+>>>>>>> 3653bddf216a4a3cbd81219b4d9e2525caa3593f
