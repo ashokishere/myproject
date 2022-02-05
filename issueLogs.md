@@ -3,3 +3,5 @@ Issue in connecting to git -  Resolved by
 after git remote set-url origin git@github.com:ashokishere/myproject.git
 
 ssh key was generted and config file was updated - getting public key error 
+
+2nd Branch was added from the PC
